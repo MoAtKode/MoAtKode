@@ -1,6 +1,6 @@
 
 
-### Welcome to my page. I'm Moliki Mulitalo, a Shopify Web-Developer from <img src="./united-states.png" width="13"> SLC,UT.
+### Welcome to my page. I'm Moliki Mulitalo, a Shopify Web-Developer from <img src="🏴󠁵󠁳󠁵󠁴󠁿" width="13"> SLC,UT.
 
 
 ## 🛠️ Languages and Tools:
